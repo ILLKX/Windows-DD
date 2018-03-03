@@ -63,7 +63,7 @@ CRC32   ：4D011F01
 MD5     ：5FB0BCB90A2D1DBB3084C9B707B813F0  
 SHA1    ：D99C49A770E1FE2C10DE9D53222CDC611714D587  
 CRC32   ：35270CB0  
-备注：Windows Server 2008 R2 with SP1 64位 VL多版本DD包(基于原版镜像制作)，仅添加VirtIO驱动与压缩，未对系统进行任何修改  
+备注：Windows Server 2008 R2 Standard with SP1 64位 VL DD包(基于原版镜像制作)，仅添加VirtIO驱动与压缩，未对系统进行任何修改  
 下载地址：https://drive.google.com/file/d/1xY3OhFaD6z5gVrmkK7VFcAag7BqXmoOb/view?usp=sharing
 
 文件名称：2k12r2.gz  
